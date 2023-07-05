@@ -1,0 +1,18 @@
+.main-page {
+  padding: 1vh 2vw;
+}
+.head {
+  text-align: center;
+}
+.list-scroll-view {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.list-scroll-view .course-card {
+  width: 47vw;
+}
+.list-scroll-view .course-card image {
+  width: 47vw;
+}
+

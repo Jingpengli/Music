@@ -1,0 +1,1 @@
+<view class="main-page"><view class="head">头部</view><view class="list-scroll-view"><block wx:for="{{6}}" wx:for-item="i" wx:for-index="__i0__"><view class="course-card"><view><image src="/static/logo.png" mode="widthFix"></image></view><view>uniapp布局</view><view>mianfei</view></view></block></view><view>头部</view></view>
