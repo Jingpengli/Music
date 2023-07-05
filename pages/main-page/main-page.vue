@@ -16,8 +16,23 @@
 				</view>
 			</view>
 		</view>
-		<view>
-			头部
+		<view class="tools">
+			<view>
+				<image src="../../static/icon/index-active.png" mode="widthFix"></image>
+				<text>首页</text>
+			</view>
+			<view>
+				<image src="../../static/icon/index-active.png" mode="widthFix"></image>
+				<text>分类</text>
+			</view>
+			<view>
+				<image src="../../static/icon/index-active.png" mode="widthFix"></image>
+				<text>课表222</text>
+			</view>
+			<view>
+				<image src="../../static/icon/index-active.png" mode="widthFix"></image>
+				<text>首页</text>
+			</view>
 		</view>
 	</view>
 
